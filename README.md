@@ -19,3 +19,11 @@ Batas kelulusan  = 55 + (P mod 11) = 55 + (21 mod 11) = 55 + 10 = 65
 Percobaan 2
 
 Pertanyaan no. 3: 15 + (P mod 10)    = 15 + (21 mod 10) = 15 + 1 = 16
+
+Percobaan 3
+
+hargaKopi = 10000 + (P mod 5) x 1000    = 10000 + (21 mod 5) x 1000 = 10000 + 1000  = 11000
+
+hargaTeh  = 5000  + (P mod 4) x 1000    = 5000  + (21 mod 4) x 1000 = 5000  + 1000  = 6000
+
+hargaRoti = 15000 + (P mod 6) x 1000    = 15000 + (21 mod 6) x 1000 = 15000 + 3000  = 18000

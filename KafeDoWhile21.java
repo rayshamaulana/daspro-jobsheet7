@@ -6,9 +6,9 @@ public class KafeDoWhile21 {
         
         int kopi, teh, roti, totalHarga;
         String namaPelanggan;
-        int hargaKopi = 12000;
-        int hargaTeh = 7000;
-        int hargaRoti = 20000;
+        int hargaKopi = 11000;
+        int hargaTeh = 6000;
+        int hargaRoti = 18000;
 
          do {
             System.out.print("Masukkan nama pelanggan (ketik 'batal' untuk keluar) : ");
@@ -29,7 +29,7 @@ public class KafeDoWhile21 {
             totalHarga = (kopi * hargaKopi) + (teh * hargaTeh) + (roti * hargaRoti);
             System.out.println("Total yang harus dibayar: Rp " + totalHarga);
             raysha.nextLine();
-            
+
         } while (true);
  
         System.out.println("Semua transaksi selesai.");
