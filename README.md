@@ -15,3 +15,7 @@ Nomor absen (P)                    = 21
 Jumlah mahasiswa = 8 + (P mod 5)   = 8 + (21 mod 5)  = 8 + 1  = 9
 
 Batas kelulusan  = 55 + (P mod 11) = 55 + (21 mod 11) = 55 + 10 = 65
+
+Percobaan 2
+
+Pertanyaan no. 3: 15 + (P mod 10)    = 15 + (21 mod 10) = 15 + 1 = 16
