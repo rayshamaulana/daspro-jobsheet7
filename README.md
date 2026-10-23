@@ -31,7 +31,11 @@ hargaRoti = 15000 + (P mod 6) x 1000    = 15000 + (21 mod 6) x 1000 = 15000 + 30
 Tugas 1
 
 Harga tiket     = 40000 + (P mod 6) x 2000 = 40000 + (21 mod 6) x 2000 = 40000 + 6000 = 46000
+
 Diskon pertama  = lebih dari (3 + (P mod 3)) tiket = lebih dari (3 + 0) = lebih dari 3 tiket
+
                   diskon (8 + (P mod 5))%          = (8 + 1)%           = 9%
+
 Diskon kedua    = lebih dari (8 + (P mod 4)) tiket = lebih dari (8 + 1) = lebih dari 9 tiket
+
                   diskon (15 + (P mod 4))%         = (15 + 1)%          = 16%
