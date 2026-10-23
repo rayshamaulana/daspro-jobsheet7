@@ -39,3 +39,9 @@ Diskon pertama  = lebih dari (3 + (P mod 3)) tiket = lebih dari (3 + 0) = lebih 
 Diskon kedua    = lebih dari (8 + (P mod 4)) tiket = lebih dari (8 + 1) = lebih dari 9 tiket
 
                   diskon (15 + (P mod 4))%         = (15 + 1)%          = 16%
+
+Tugas 2
+
+Tarif parkir mobil = 2500 + (P mod 6) x 250 = 2500 + 3 x 250 = 3250 per jam
+
+Tarif parkir motor = 1500 + (P mod 6) x 250 = 1500 + 3 x 250 = 2250 per jam
